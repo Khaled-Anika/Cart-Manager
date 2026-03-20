@@ -1,0 +1,6 @@
+[submodule "AI-Cart-Frontend"]
+	path = AI-Cart-Frontend
+	url = git@github-khaled:Khaled-Anika/AI-Cart-Frontend.git
+[submodule "AI-Cart-Backend"]
+	path = AI-Cart-Backend
+	url = git@github-khaled:Khaled-Anika/AI-Cart-Backend.git
