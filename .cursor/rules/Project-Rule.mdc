@@ -10,6 +10,7 @@ Rules:
 - Use Express with clean route separation
 - Always write unit tests for logic
 - Follow TDD when implementing features
+- When implementing features, consult the repo's `context/` documentation (prefer via MCP resources) and follow the workflows/modules/rules there.
 - Ask before installing dependencies
 - Prefer simple solutions over complex ones
 - Add comments explaining non-obvious logic
