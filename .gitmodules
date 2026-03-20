@@ -1,6 +1,0 @@
-[submodule "frontend"]
-	path = frontend
-	url = git@github-khaled:Khaled-Anika/AI-Cart-Frontend.git
-[submodule "backend"]
-	path = backend
-	url = git@github-khaled:Khaled-Anika/AI-Cart-Backend.git
