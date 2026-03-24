@@ -7,6 +7,11 @@ AI Cart Manager is a full-stack cart application with:
 
 The frontend runs on `http://localhost:5173` and proxies API calls to the backend on `http://localhost:3001`.
 
+## Repository Links
+
+- Frontend: [AI-Cart-Frontend](https://github.com/Khaled-Anika/AI-Cart-Frontend)
+- Backend: [AI-Cart-Backend](https://github.com/Khaled-Anika/AI-Cart-Backend)
+
 ## Prerequisites
 
 - Node.js 18+ (Node.js 20 LTS recommended)
@@ -88,6 +93,16 @@ To run E2E tests with coverage:
 
 ```bash
 npm run test:e2e:coverage
+```
+
+## 4) Build for Production
+
+### Frontend build
+
+From `AI-Cart-Frontend`:
+
+```bash
+npm run build
 ```
 
 ## API Endpoints
